@@ -6,7 +6,7 @@ The database is distributed as a textual export file with entries in the format 
 Traditional Simplified [pin1 yin1] /American English equivalent 1/equivalent 2/
 漢字 汉字 [han4 zi4] /Chinese character/CL:個|个/
 ```
-This export file is distributed through [mdbg.net](https://www.mdbg.net/chindict/chindict.php?page=cedict). There is no API for CC-CEDICT integration(neither for submitting edits nor consuming the data).
+This export file is distributed through [mdbg.net](https://www.mdbg.net/chindict/chindict.php?page=cedict). There is no API for CC-CEDICT integration(neither for submitting edits nor consuming the data). The database export is distributed on a mdbg.net webpage stating that scraping is not allowed.
 
 CC-CEDICT is distributed for free but is not very open in a sense. This is a proposal to create a fork of CC-CEDICT which is more open and modernized. The goal is to make the data more accessible both for consuming and contributing.
 
