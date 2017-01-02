@@ -73,8 +73,8 @@ Returns:
 			},
 			"sql":
 			{
-				"zip": http://domain.com/sql.zip,
-				"gzip": http://domain.com/sql.tar.gz
+				"zip": "http://domain.com/sql.zip",
+				"gzip": "http://domain.com/sql.tar.gz"
 			}
 		}
 	}
@@ -104,38 +104,41 @@ Returns something like:
 	"exports":
 	[
 		{
-		"id": 1070,
-		"version": "1.0.0.45",
-		"exportDate": "2016-12-14 23:55:00",
-		"totalEntries": 112004,
-		"previousExportDiff":
-		{
-			"newDefinitions": 9,
-			"editedDefinitions": 20,
-			"newEntries": 0
+			"id": 1070,
+			"version": "1.0.0.45",
+			"exportDate": "2016-12-14 23:55:00",
+			"totalEntries": 112004,
+			"previousExportDiff":
+			{
+				"newDefinitions": 9,
+				"editedDefinitions": 20,
+				"newEntries": 0
+			}
 		},
 		{
-		"id": 1069,
-		"version": "1.0.0.44",
-		"exportDate": "2016-12-13 23:55:00",
-		"totalEntries": 112004,
-		"previousExportDiff":
-		{
-			"newDefinitions": 22,
-			"editedDefinitions": 7,
-			"newEntries": 0
+			"id": 1069,
+			"version": "1.0.0.44",
+			"exportDate": "2016-12-13 23:55:00",
+			"totalEntries": 112004,
+			"previousExportDiff":
+			{
+				"newDefinitions": 22,
+				"editedDefinitions": 7,
+				"newEntries": 0
+			}
 		},
 		{
-		"id": 1068,
-		"version": "1.0.0.43",
-		"exportDate": "2016-12-12 23:55:00",
-		"totalEntries": 112004,
-		"previousExportDiff":
-		{
-			"newDefinitions": 15,
-			"editedDefinitions": 3,
-			"newEntries": 0
-		},
+			"id": 1068,
+			"version": "1.0.0.43",
+			"exportDate": "2016-12-12 23:55:00",
+			"totalEntries": 112004,
+			"previousExportDiff":
+			{
+				"newDefinitions": 15,
+				"editedDefinitions": 3,
+				"newEntries": 0
+			}
+		}
 	]
 }
 ```
