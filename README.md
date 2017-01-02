@@ -153,10 +153,10 @@ The latest exports are distributed through GitHub.
 CC-CEDICT is tightly connected to MDBG which is making money from it's closed source software. CC-CEDICT is even hosted on MDBG's website. We want to give credit where credit is due but not be tightly connected to any organization.
 
 ## Encourage contributions
-Aim for encouraging contributions - both dictionary edits and technical contributions. 
+Aiming for encouraging people to contribute to the database. Both by submitting dictionary contributions and technical contributions.
+
+### Dictionary contributions by users
+By providing an API for both consuming the database and submitting contributions we open up possibilities for developers to add support for this in their applications/services. For example dictionary applications can allow their users to submit new translations and edits.
 
 ### Technical contributions
 The API is one step towards encouraging technical contributions - it enables developers to create technical contributions such as frameworks, tools, different kinds of integrations.
-
-### Dictionary edit contributions
-*Can we encourage edit contributions somehow? For example by showing statistics such as top editors?*
