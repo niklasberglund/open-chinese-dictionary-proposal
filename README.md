@@ -44,11 +44,13 @@ Other than just providing the export download also provide information about the
 
 For example the following request:
 
-`GET /export/latest`
+```
+GET /export/latest
+```
 
 Returns:
 
-```
+```json
 {
 	"export":
 	{
@@ -91,11 +93,13 @@ Provide information about database exports which could be used for statistics.
 #### List exports information
 For example the request:
 
-`GET /export`
+```http
+GET /export
+```
 
 Returns something like:
 
-```
+```json
 {
 	"exports":
 	[
