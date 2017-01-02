@@ -79,6 +79,12 @@ Returns:
 }
 ```
 
+#### Export formats
+The dictionary is mainly distributed in an export format to be read by applications consuming the database. Could also provide exports of the dictionary to be used with popular translation applications, for example these formats:
+
+ * AppleDict *(Compatible with Apple's Dictionary application)*
+ * StarDict
+
 ### Information/statistics
 Provide information about database exports which could be used for statistics.
 
