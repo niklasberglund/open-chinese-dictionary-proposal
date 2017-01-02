@@ -10,6 +10,8 @@ This export file is distributed through [mdbg.net](https://www.mdbg.net/chindict
 
 CC-CEDICT is distributed for free but is not very open in a sense. This is a proposal to create a fork of CC-CEDICT which is more open and modernized. The goal is to make the data more accessible both for consuming and contributing.
 
+The idea is to make the dictionary more accessible to encourage more people to join the collaborative effort and to set up a working group of people who together plan the future direction of the dictionary.
+
 The main components of this proposal are:
 
 * Providing API for
