@@ -167,3 +167,13 @@ By providing an API for both consuming the database and submitting contributions
 
 ### Technical contributions
 The API is one step towards encouraging technical contributions - it enables developers to create technical contributions such as frameworks, tools, different kinds of integrations.
+
+## Challenges
+### Moderating contributions
+We'd need a small group of people who want to help moderating dictionary contributions on a regular basis.
+
+### Development effort
+The infrastructure behind this dictionary proposal requires quite a big development effort. Would be good if there are two or three developers sharing the workload.
+
+### Bandwidth
+Distribution of exports might consume a lot of bandwidth. Could perhaps be solved by hosting on GitHub.
